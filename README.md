@@ -1,5 +1,6 @@
 # EvilNotify
-iOS app that does stuff with CVE-2025-24091
+Realls simple iOS app that does stuff with CVE-2025-24091; Not really anything useful, just for funsies
+
 
 ## Installation
 1. Get latest .ipa from (Releases)[https://test.com] tab
