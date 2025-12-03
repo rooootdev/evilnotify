@@ -3,7 +3,7 @@ Realls simple iOS app that does stuff with CVE-2025-24091; Not really anything u
 
 
 ## Installation
-1. Get latest .ipa from (Releases)[https://test.com] tab
+1. Get latest .ipa from [Releases](https://github.com/rooootdev/evilnotify/releases/tag/1.0) tab
 2. Install via LiveContainer or some sideloading service
 
 ## Usage
